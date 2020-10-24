@@ -73,3 +73,9 @@ body {
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem; } }
+
+.alert-custom {
+  background-color: #FFC200;
+  color: #202529;
+  margin-bottom: 0;
+  padding-top: 20px; }
